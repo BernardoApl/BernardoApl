@@ -1,8 +1,9 @@
 # 🖥️ Olá, meu nome é **Bernardo Augusto**!  
 
-🎓 Estudante de **Engenharia de Software** na PUC Minas, com interesse em desenvolvimento de software, automação de processos e inovação tecnológica.  
-💡 Busco constantemente aprimorar minhas habilidades em programação e contribuir para soluções eficientes e escaláveis.  
-🚀 Meu objetivo é atuar no mercado de tecnologia explorando novas ferramentas  
+🎓 Estudante de Engenharia de Software na PUC Minas, apaixonado por desenvolvimento de software, automação de processos e inovação tecnológica.
+💡 Estou em constante evolução, buscando aprimorar minhas habilidades em programação e contribuir para soluções eficientes, escaláveis e de impacto real.
+🤝 Valorizo o trabalho em equipe e acredito que a troca de conhecimento potencializa o aprendizado e a criação de projetos sólidos.
+🚀 Meu objetivo é atuar no mercado de tecnologia explorando novas ferramentas e criando soluções que unam qualidade técnica, inovação e colaboração.
 
 ---
 
