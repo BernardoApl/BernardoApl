@@ -13,9 +13,6 @@
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![Banco de Dados](https://img.shields.io/badge/Database-026E00?style=for-the-badge&logo=database&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
 
-### Ferramentas
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Replit](https://img.shields.io/badge/Replit-FF4500?style=for-the-badge&logo=replit&logoColor=white)  
-
 ---
 
 📫 **Como me encontrar:**  
