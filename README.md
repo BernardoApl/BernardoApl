@@ -28,10 +28,7 @@
 
 <div align="center">
 
-### 🔥 GitHub Stats
-![Bernardo GitHub Stats](https://github-readme-stats.vercel.app/api?username=bernardoapl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-### 🧠 Linguagens mais usadas (gráfico baseado nos seus repositórios)
+### 🧠 Linguagens 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardoapl&layout=compact&langs_count=8&theme=tokyonight)
 
 </div>
