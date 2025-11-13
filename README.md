@@ -68,8 +68,6 @@
 
 ---
 
-## 🔥 Radar de Commits (Circular / Animado)
-
 <div align="center">
 
 ![Radar Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bernardoapl&theme=tokyonight)
