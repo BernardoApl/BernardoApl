@@ -52,13 +52,11 @@
 
 <div align="center">
 
-### 🧠 Linguagens 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardoapl&layout=compact&langs_count=8&theme=tokyonight)
 
 </div>
 
 
-## ⚡ Gráfico de Atividade (Commits Diários e Semanais)
 
 <div align="center">
 
