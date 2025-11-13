@@ -7,8 +7,6 @@
 
 ---
 
-## 🚀 Minhas Skills
-
 ## Tecnologhs
 
 <table align="center">
