@@ -34,6 +34,24 @@
 </div>
 
 
+## ⚡ Gráfico de Atividade (Commits Diários e Semanais)
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bernardoapl&bg_color=0d1117&color=9fef00&line=00b3ff&point=ffffff&area=true&hide_border=true&radius=10&custom_title=Atividade%20de%20Commits%20-%20Bernardo%20Augusto)
+
+</div>
+
+---
+
+## 🔥 Radar de Commits (Circular / Animado)
+
+<div align="center">
+
+![Radar Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bernardoapl&theme=tokyonight)
+
+</div>
+
 
 ---
 
