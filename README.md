@@ -1,9 +1,15 @@
-# 🖥️ Olá, meu nome é **Bernardo Augusto**!
+<h1 align="center">👋 Olá! Sou Bernardo Lopes</h1>
 
-🎓 Estudante de Engenharia de Software na PUC Minas, apaixonado por desenvolvimento de software, automação de processos e inovação tecnológica.  
-💡 Estou em constante evolução, buscando aprimorar minhas habilidades em programação e contribuir para soluções eficientes, escaláveis e de impacto real.  
-🤝 Valorizo o trabalho em equipe e acredito que a troca de conhecimento potencializa o aprendizado e a criação de projetos sólidos.  
-🚀 Meu objetivo é atuar no mercado de tecnologia explorando novas ferramentas e criando soluções que unam qualidade técnica, inovação e colaboração.
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BernardoApl&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+## 🔗 Links   
+- 🔭 Atualmente trabalhando na **[TI da Prefeitura de Betim](https://www.betim.mg.gov.br/)**  
+- 🌱 Desenvolvendo o projeto **[Pesque-Pague](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-2-ti2-3740100-pesque-e-pague)**  
+- 📝 Veja mais sobre meus projetos no meu **[Blog](https://bernardoapl.github.io/PerfilOriginal/)**  
+- 💬 Conecte-se comigo no **[LinkedIn](https://www.linkedin.com/in/bernardo-lopes-3500b92b6/)** 
 
 ---
 
