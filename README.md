@@ -9,7 +9,8 @@
 - 🔭 Atualmente trabalhando na **[TI da Prefeitura de Betim](https://www.betim.mg.gov.br/)**  
 - 🌱 Desenvolvendo o projeto **[Pesque-Pague](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-2-ti2-3740100-pesque-e-pague)**  
 - 📝 Veja mais sobre meus projetos no meu **[Blog](https://bernardoapl.github.io/PerfilOriginal/)**  
-- 💬 Conecte-se comigo no **[LinkedIn](https://www.linkedin.com/in/bernardo-lopes-3500b92b6/)** 
+- 💬 Conecte-se comigo no **[LinkedIn](https://www.linkedin.com/in/bernardo-lopes-3500b92b6/)**
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:b.lopes.software@gmail.com)
 
 ---
 
@@ -77,11 +78,3 @@
 
 
 
----
-
-## 📫 Como me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-lopes-3500b92b6/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:b.lopes.software@gmail.com)
-
-🌐 [**Perfil Pessoal**](https://bernardoapl.github.io/PerfilOriginal/)
