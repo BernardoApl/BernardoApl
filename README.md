@@ -58,19 +58,11 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardoapl&layout=compact&langs_count=8&theme=tokyonight)
-
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardoapl&layout=compact&langs_count=8&theme=tokyonight" 
+         alt="Top Langs" />
 </div>
 
 ---
-
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bernardoapl&bg_color=0d1117&color=9fef00&line=00b3ff&point=ffffff&area=true&hide_border=true&radius=10&custom_title=Atividade%20de%20Commits%20-%20Bernardo%20Augusto)
-
-</div>
 
 ---
 
