@@ -59,7 +59,12 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoApl&layout=compact&langs_count=8&theme=tokyonight)
+  <a href="https://github.com/BernardoApl">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=BernardoApl&show_icons=true&theme=tokyonight"
+      alt="GitHub Stats"
+    />
+  </a>
 
 </div>
 
