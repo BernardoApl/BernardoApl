@@ -60,11 +60,12 @@
 <p align="center">
   <a href="https://github.com/BernardoApl">
     <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BernardoApl&theme=tokyonight"
-      alt="GitHub Stats"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BernardoApl&theme=tokyonight"
+      alt="Linguagens mais usadas"
     />
   </a>
 </p>
+
 
 
 
