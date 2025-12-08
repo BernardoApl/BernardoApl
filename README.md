@@ -57,8 +57,11 @@
 
 ## 📊 Estatísticas do GitHub
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoApl&layout=compact&langs_count=8&theme=tokyonight" 
-     alt="Top Langs" />
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardoapl&layout=compact&langs_count=8&theme=tokyonight)
+
+</div>
 
 
 ---
