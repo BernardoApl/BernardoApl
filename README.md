@@ -57,16 +57,15 @@
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-
+<p align="center">
   <a href="https://github.com/BernardoApl">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=BernardoApl&show_icons=true&theme=tokyonight"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BernardoApl&theme=tokyonight"
       alt="GitHub Stats"
     />
   </a>
+</p>
 
-</div>
 
 
 ---
