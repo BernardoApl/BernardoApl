@@ -57,14 +57,8 @@
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <a href="https://github.com/BernardoApl">
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BernardoApl&theme=tokyonight"
-      alt="Linguagens mais usadas"
-    />
-  </a>
-</p>
+[![BernardoApl](https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoApl&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
