@@ -58,7 +58,7 @@
 
 <div align="center">
 
-[![Top Langs - BernardoApl](https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoApl&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages by Commits - BernardoApl](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BernardoApl&theme=tokyonight)](https://github-profile-summary-cards.vercel.app/)
 
 </div>
 
