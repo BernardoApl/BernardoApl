@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Sou Bernardo Lopes</h1>
+<h1 align="center">👋 Hello There! I'm Bernardo Lopes</h1>
 
 
 <p align="center">
@@ -6,11 +6,12 @@
 </p>
 
 ## 🔗 Links   
-- 🔭 Atualmente trabalhando na **[TI da Prefeitura de Betim](https://www.betim.mg.gov.br/)**  
-- 🌱 Desenvolvendo o projeto **[Pesque-Pague](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-2-ti2-3740100-pesque-e-pague)**  
-- 📝 Veja mais sobre meus projetos no meu **[Blog](https://bernardoapl.github.io/PerfilOriginal/)**  
-- 💬 Conecte-se comigo no **[LinkedIn](https://www.linkedin.com/in/bernardo-lopes-3500b92b6/)**
+- 🔭 Currently working at **[Betim City Hall IT Department](https://www.betim.mg.gov.br/)**  
+- 🌱 Building the **[Pesque-Pague](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-2-ti2-3740100-pesque-e-pague)** project  
+- 📝 Explore more of my work on my **[Blog](https://bernardoapl.github.io/PerfilOriginal/)**  
+- 💬 Connect with me on **[LinkedIn](https://www.linkedin.com/in/bernardo-lopes-3500b92b6/)**  
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:b.lopes.software@gmail.com)
+
 
 ---
 
