@@ -5,9 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=BernardoApl&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-## 🔗 Links   
-- 🔭 Currently working at **[Betim City Hall IT Department](https://www.betim.mg.gov.br/)**  
-- 🌱 Building the **[Pesque-Pague](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-2-ti2-3740100-pesque-e-pague)** project  
+## 🔗 Links    Department](https://www.betim.mg.gov.br/)**  
+- 🌱 Building the **[Pesque-Pague](DuZe pesqueiro)** project  
 - 📝 Explore more of my work on my **[Blog](https://bernardoapl.github.io/PerfilOriginal/)**  
 - 💬 Connect with me on **[LinkedIn](https://www.linkedin.com/in/bernardo-lopes-3500b92b6/)**  
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:b.lopes.software@gmail.com)
