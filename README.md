@@ -1,75 +1,93 @@
-<h1 align="center">👋 Hello There! I'm Bernardo Lopes</h1>
+# Olá, eu sou Bernardo Lopes
 
+Estudante de Engenharia de Software na PUC Minas, com foco em desenvolvimento de software, backend, aplicações web e automação de processos.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BernardoApl&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-## 🔗 Links    Department](https://www.betim.mg.gov.br/)**  
-- 🌱 Building the **[Pesque-Pague](DuZe pesqueiro)** project  
-- 📝 Explore more of my work on my **[Blog](https://bernardoapl.github.io/PerfilOriginal/)**  
-- 💬 Connect with me on **[LinkedIn](https://www.linkedin.com/in/bernardo-lopes-3500b92b6/)**  
-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:b.lopes.software@gmail.com)
-
+Atualmente busco evoluir como desenvolvedor, criando soluções organizadas, documentadas e úteis, com atenção a boas práticas, manutenção de código e aprendizado contínuo.
 
 ---
 
-## Tecnologhs
+## Sobre mim
 
-<table align="center">
-  <tr>
-    <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"/><br><sub><b>Java</b></sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50"/><br><sub><b>TypeScript</b></sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/><br><sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50"/><br><sub><b>HTML5</b></sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50"/><br><sub><b>CSS3</b></sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/><br><sub><b>C++</b></sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50"/><br><sub><b>React</b></sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" width="50" height="50"/><br><sub><b>n8n</b></sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" height="50"/><br><sub><b>Firebase</b></sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50"/><br><sub><b>PostgreSQL</b></sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50" height="50"/><br><sub><b>Spring Boot</b></sub>
-    </td>
-  </tr>
-</table>
+- Estudante de Engenharia de Software na PUC Minas
+- Interesse em desenvolvimento backend, web e automação
+- Experiência prática com Java, TypeScript, React, PostgreSQL, Firebase e n8n
+- Atualmente desenvolvendo projetos acadêmicos e pessoais para fortalecer meu portfólio
+- Buscando oportunidades em desenvolvimento de software, estágio ou projetos na área de tecnologia
 
+---
 
-###
+## Tecnologias
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BernardoApl&theme=dark)
+### Linguagens
 
-###
-## 📊 Estatísticas do GitHub
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks e ferramentas
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## Projetos em destaque
+
+### Pesque-Pague
+
+Sistema web voltado para gestão e organização de um pesqueiro, com foco em cadastro, controle e experiência do usuário.
+
+**Tecnologias:** TypeScript, React, Firebase e automação de processos.
+
+[Ver projeto](https://github.com/BernardoApl)
+
+---
+
+### CarExpress
+
+Sistema de gerenciamento de veículos com funcionalidades de cadastro, consulta, atualização e remoção de registros.
+
+**Tecnologias:** TypeScript, JavaScript e CSS.
+
+[Ver projeto](https://github.com/BernardoApl/CarExpress)
+
+---
+
+### Currículo em LaTeX
+
+Repositório dedicado à construção e manutenção do meu currículo profissional em LaTeX, com versões em português e inglês.
+
+[Ver currículo](https://github.com/BernardoApl/CV)
+
+---
+
+## Estatísticas
 
 <div align="center">
 
-[![Top Languages by Commits - BernardoApl](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BernardoApl&theme=tokyonight)](https://github-profile-summary-cards.vercel.app/)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BernardoApl&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoApl&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
+## Contato
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bernardo%20Lopes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](COLE_AQUI_SEU_LINKEDIN)
+[![Portfólio](https://img.shields.io/badge/Portfólio-Bernardo.dev-111111?style=for-the-badge&logo=githubpages&logoColor=white)](https://bernardoapl.github.io/PerfilOriginal/)
+[![Email](https://img.shields.io/badge/Email-b.lopes.software%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:b.lopes.software@gmail.com)
 
+---
 
+<p align="center">
+  Obrigado por visitar meu perfil.
+</p>
