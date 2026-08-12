@@ -1,18 +1,5 @@
 # Olá, eu sou Bernardo Lopes
 
-Estudante de Engenharia de Software na PUC Minas, com foco em desenvolvimento de software, backend, aplicações web e automação de processos.
-
-Atualmente busco evoluir como desenvolvedor, criando soluções organizadas, documentadas e úteis, com atenção a boas práticas, manutenção de código e aprendizado contínuo.
-
----
-
-## Sobre mim
-
-- Estudante de Engenharia de Software na PUC Minas
-- Interesse em desenvolvimento backend, web e automação
-- Experiência prática com Java, TypeScript, React, PostgreSQL, Firebase e n8n
-- Atualmente desenvolvendo projetos acadêmicos e pessoais para fortalecer meu portfólio
-- Buscando oportunidades em desenvolvimento de software, estágio ou projetos na área de tecnologia
 
 ---
 
