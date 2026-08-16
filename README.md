@@ -1,11 +1,42 @@
-# Olá, eu sou Bernardo Lopes
+# Hi, I'm Bernardo Lopes
 
+<p align="center">
+  Software developer focused on web applications, automation, and practical digital products.
+</p>
 
 ---
 
-## Tecnologias
+## About me
 
-### Linguagens
+I build web systems using front-end, back-end, databases, and automation tools.
+
+---
+
+## Contributions
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/BernardoApl/BernardoApl/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## Social links
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-BernardoApl-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BernardoApl)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Bernardo.dev-111111?style=for-the-badge&logo=githubpages&logoColor=white)](https://bernardoapl.github.io/PerfilOriginal/)
+[![Email](https://img.shields.io/badge/Email-b.lopes.software%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:b.lopes.software@gmail.com)
+
+</div>
+
+---
+
+## Tech stack
+
+### Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -14,7 +45,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks e ferramentas
+### Frameworks and tools
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -25,37 +56,33 @@
 
 ---
 
-## Projetos em destaque
+## Featured projects
 
 ### Pesque-Pague
 
-Sistema web voltado para gestão e organização de um pesqueiro, com foco em cadastro, controle e experiência do usuário.
+Web system for fishery management, focused on registration, control, and user experience.
 
-**Tecnologias:** TypeScript, React, Firebase e automação de processos.
+**Tech:** TypeScript, React, Firebase, and process automation.
 
-[Ver projeto](https://github.com/BernardoApl)
-
----
+[View project](https://github.com/BernardoApl)
 
 ### CarExpress
 
-Sistema de gerenciamento de veículos com funcionalidades de cadastro, consulta, atualização e remoção de registros.
+Vehicle management system with create, read, update, and delete features.
 
-**Tecnologias:** TypeScript, JavaScript e CSS.
+**Tech:** TypeScript, JavaScript, and CSS.
 
-[Ver projeto](https://github.com/BernardoApl/CarExpress)
+[View project](https://github.com/BernardoApl/CarExpress)
 
----
+### LaTeX Resume
 
-### Currículo em LaTeX
+Professional resume built with LaTeX, with Portuguese and English versions.
 
-Repositório dedicado à construção e manutenção do meu currículo profissional em LaTeX, com versões em português e inglês.
-
-[Ver currículo](https://github.com/BernardoApl/CV)
+[View resume](https://github.com/BernardoApl/CV)
 
 ---
 
-## Estatísticas
+## GitHub stats
 
 <div align="center">
 
@@ -67,14 +94,6 @@ Repositório dedicado à construção e manutenção do meu currículo profissio
 
 ---
 
-## Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bernardo%20Lopes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](COLE_AQUI_SEU_LINKEDIN)
-[![Portfólio](https://img.shields.io/badge/Portfólio-Bernardo.dev-111111?style=for-the-badge&logo=githubpages&logoColor=white)](https://bernardoapl.github.io/PerfilOriginal/)
-[![Email](https://img.shields.io/badge/Email-b.lopes.software%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:b.lopes.software@gmail.com)
-
----
-
 <p align="center">
-  Obrigado por visitar meu perfil.
+  Thanks for visiting my profile.
 </p>
