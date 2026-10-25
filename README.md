@@ -1,34 +1,45 @@
-# Hi, I'm Bernardo Lopes
+# Bernardo Lopes
 
 <p align="center">
-  Software developer focused on web applications, automation, and practical digital products.
+  <strong>Software Engineering Student at PUC Minas · Web Systems · Automation</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bernardo-lopes-3500b92b6/">LinkedIn</a> ·
+  <a href="https://bernardoapl.github.io/PerfilOriginal/">Website</a> ·
+  <a href="mailto:b.lopes.software@gmail.com">Email</a>
 </p>
 
 ---
 
-## About me
+## What I do
 
-I build web systems using front-end, back-end, databases, and automation tools.
+I build web systems and automation-focused solutions with an emphasis on practical business workflows, clear documentation, and testable code.
 
----
+## Selected project
 
-## Contributions
+### 🏆 DuZé Pesqueiro
 
-<div align="center">
+A management platform for a pay-to-fish business, covering inventory, rentals, reservations, dashboards, and centralized operational data.
 
-![Snake animation](https://raw.githubusercontent.com/BernardoApl/BernardoApl/output/github-contribution-grid-snake.svg)
+**Stack:** Java · Spring Boot · React · TypeScript · MySQL
 
-</div>
+**Recognition:** Best IT Project of the Semester at PUC Minas.  
+[View the recognition on LinkedIn →](https://www.linkedin.com/feed/update/urn:li:activity:7439712755990978560/)
 
----
+## Technologies
 
-## Social links
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,react,ts,python,flask,mysql,git,githubactions" alt="Java, Spring Boot, React, TypeScript, Python, Flask, MySQL, Git and GitHub Actions" />
+</p>
 
-<div align="center">
+## Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-BernardoApl-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BernardoApl)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Bernardo.dev-111111?style=for-the-badge&logo=githubpages&logoColor=white)](https://bernardoapl.github.io/PerfilOriginal/)
-[![Email](https://img.shields.io/badge/Email-b.lopes.software%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:b.lopes.software@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bernardo%20Lopes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-lopes-3500b92b6/)
+[![Website](https://img.shields.io/badge/Website-Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bernardoapl.github.io/PerfilOriginal/)
 
-</div>
+## Activity
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BernardoApl/BernardoApl/output/github-contribution-grid-snake.svg" alt="Snake animation showing GitHub contributions" />
+</p>
