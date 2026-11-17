@@ -1,45 +1,76 @@
+
 # Bernardo Lopes
 
 <p align="center">
-  <strong>Software Engineering Student at PUC Minas · Web Systems · Automation</strong>
+  <strong>Estudante de Engenharia de Software na PUC Minas · Desenvolvimento Web · Automação</strong>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bernardo-lopes-3500b92b6/">LinkedIn</a> ·
-  <a href="https://bernardoapl.github.io/PerfilOriginal/">Website</a> ·
-  <a href="mailto:b.lopes.software@gmail.com">Email</a>
+  <a href="https://bernardoapl.github.io/PerfilOriginal/">Portfólio</a> ·
+  <a href="mailto:b.lopes.software@gmail.com">E-mail</a>
 </p>
 
 ---
 
-## What I do
+## Sobre mim
 
-I build web systems and automation-focused solutions with an emphasis on practical business workflows, clear documentation, and testable code.
+Sou estudante de Engenharia de Software na PUC Minas, com foco no desenvolvimento de sistemas web, automações e soluções tecnológicas para problemas reais.
 
-## Selected project
+Busco desenvolver aplicações eficientes, escaláveis e bem estruturadas, priorizando a qualidade do código, a experiência do usuário e a integração entre tecnologias.
 
-### 🏆 DuZé Pesqueiro
+## Projeto em destaque
 
-A management platform for a pay-to-fish business, covering inventory, rentals, reservations, dashboards, and centralized operational data.
+### 🏆 1x Melhor Projeto de Software da Puc
 
-**Stack:** Java · Spring Boot · React · TypeScript · MySQL
+Plataforma de gestão para um pesqueiro, com funcionalidades de controle de estoque, locações, reservas, dashboards e centralização de informações operacionais.
 
-**Recognition:** Best IT Project of the Semester at PUC Minas.  
-[View the recognition on LinkedIn →](https://www.linkedin.com/feed/update/urn:li:activity:7439712755990978560/)
+**Tecnologias:** Java · Spring Boot · React · TypeScript · MySQL
 
-## Technologies
+**Reconhecimento:** Melhor Projeto de TI do Semestre na PUC Minas.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,react,ts,python,flask,mysql,git,githubactions" alt="Java, Spring Boot, React, TypeScript, Python, Flask, MySQL, Git and GitHub Actions" />
-</p>
+[Ver reconhecimento no LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7439712755990978560/)
 
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bernardo%20Lopes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-lopes-3500b92b6/)
-[![Website](https://img.shields.io/badge/Website-Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bernardoapl.github.io/PerfilOriginal/)
-
-## Activity
+## Tecnologias
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BernardoApl/BernardoApl/output/github-contribution-grid-snake.svg" alt="Snake animation showing GitHub contributions" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,ts,python,flask,mysql,git,githubactions" alt="Tecnologias utilizadas" />
+</p>
+
+## Contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bernardo-lopes-3500b92b6/">
+    <img src="https://img.shields.io/badge/LinkedIn-Bernardo%20Lopes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://bernardoapl.github.io/PerfilOriginal/">
+    <img src="https://img.shields.io/badge/Portfólio-Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" />
+  </a>
+</p>
+
+## Atividade no GitHub
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BernardoApl/BernardoApl/output/github-contribution-grid-snake.svg" alt="Animação das contribuições no GitHub" />
+</p>
+
+## Estatísticas do GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BernardoApl&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoApl&layout=compact&langs_count=8&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas" />
+</p>
+
+### Sequência de contribuições
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=BernardoApl&theme=github-dark-blue&hide_border=true&locale=pt_BR" alt="Sequência de contribuições no GitHub" />
+</p>
+
+### Linguagens por repositório
+
+<p align="center">
+  <a href="https://github.com/BernardoApl?tab=repositories">
+    <img src="https://img.shields.io/badge/Explorar_repositórios_e_linguagens-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver linguagens por repositório" />
+  </a>
 </p>
