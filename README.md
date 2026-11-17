@@ -54,22 +54,18 @@ Plataforma de gestão para um pesqueiro, com funcionalidades de controle de esto
   <img src="https://raw.githubusercontent.com/BernardoApl/BernardoApl/output/github-contribution-grid-snake.svg" alt="Animação das contribuições no GitHub" />
 </p>
 
+
 ## Estatísticas do GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BernardoApl&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoApl&layout=compact&langs_count=8&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=BernardoApl&show_icons=true&theme=github_dark&hide_border=true" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoApl&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais utilizadas" />
 </p>
 
-### Sequência de contribuições
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=BernardoApl&theme=github-dark-blue&hide_border=true&locale=pt_BR" alt="Sequência de contribuições no GitHub" />
+  <img src="https://streak-stats.demolab.com?user=BernardoApl&theme=github-dark-blue&hide_border=true" alt="Sequência de contribuições" />
 </p>
 
-### Linguagens por repositório
-
-<p align="center">
   <a href="https://github.com/BernardoApl?tab=repositories">
     <img src="https://img.shields.io/badge/Explorar_repositórios_e_linguagens-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver linguagens por repositório" />
   </a>
